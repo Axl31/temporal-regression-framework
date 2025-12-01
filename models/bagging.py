@@ -4,8 +4,6 @@ Bagging wrapper using sklearn BaggingRegressor over different base learners.
 
 from sklearn.ensemble import BaggingRegressor
 from .base_models import BaseModelWrapper, REGRESSORS, LABELS
-from math import sqrt
-from sklearn.metrics import mean_squared_error
 import time
 import numpy as np
 
