@@ -34,6 +34,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+![Figure](images/Figure.jpg "Prediction vs Actual")
+
 ## Application Example
 
 An application of this framework can be seen in the study "*[Transforming personalized weight forecasting: From the Personalized Metabolic Avatar to the Generalized Metabolic Avatar](https://doi.org/10.1016/j.compbiomed.2025.109879)*". The model supports predictive analytics similar to those used in the PMA/GMA research pipeline, enabling generalized metabolic forecasting without individual calibration.
