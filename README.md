@@ -33,7 +33,9 @@ pip install -r requirements.txt
 
 ### Dataset
 This example uses historical stock price data from the **National Stock Exchange of India Ltd. (NSE)**, available on Kaggle:  
-**National Stock Exchange Time Series** — <https://www.kaggle.com/datasets/atulanandjha/national-stock-exchange-time-series>
+**National Stock Exchange Time Series** — <https://www.kaggle.com/datasets/atulanandjha/national-stock-exchange-time-series>. 
+
+Download the CSV files and place them in a folder named `data`.
 
 **Context:**  
 The NSE, established in 1992 in Mumbai, is one of India's largest electronic stock exchanges. It pioneered screen-based trading in 1994 and later introduced index futures and online trading.
